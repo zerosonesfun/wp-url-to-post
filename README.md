@@ -3,7 +3,7 @@ This WordPress plugin allows authorized users to create posts by providing data 
 
 Why? No reason other than I find it interesting to try creating blog posts in non-traditional ways. I'm sure this could be very useful for various niche and experimental purposes.
 
-**Example URL:** `https://yoursite.com/post/create/?title=Your Title&content=Your sweet content!&tags=Tag1,Tag2`
+**Example URL (how to post):** `https://yoursite.com/post/create/?title=Your Title&content=Your sweet content!&tags=Tag1,Tag2`
 
 **Security Features:**
 
