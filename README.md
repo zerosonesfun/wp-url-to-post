@@ -1,6 +1,8 @@
 # WordPress URL to Post
 This WordPress plugin allows authorized users to create posts by providing data via URL parameters. It enforces user rate limiting to prevent abuse and uses the blog's default category for post assignments.
 
+Why? No reason other than I find it interesting to try creating blog posts in non-traditional ways. I'm sure this could be very useful for various niche and experimental purposes.
+
 **Example URL:** `https://yoursite.com/post/create/?title=Your Title&content=Your sweet content!&tags=Tag1,Tag2`
 
 **Security Features:**
